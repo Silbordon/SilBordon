@@ -40,7 +40,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
-[![Tailwind](https://img.shields.io/badge/-tailwind-%23E44D27?style=flat-square&logo=tailwindCss&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-%23E44D27?style=flat-square&logo=tailwindCss&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
