@@ -45,7 +45,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&style=flat-square&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
-[![Formik](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=formik&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
+[![Formik](http://img.shields.io/badge/-Formik-5B4638?style=flat-square&logo=Formik&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![Svelte](https://img.shields.io/badge/-Svelte-%23E44D27?style=flat-square&logo=svelte&Color=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
