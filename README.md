@@ -2,16 +2,6 @@
 <!--
 **Silbordon/SilBordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -50,13 +40,15 @@ Here are some ideas to get you started:
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
+[![Tailwind](https://img.shields.io/badge/-tailwind-%23E44D27?style=flat-square&logo=tailwindCss&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&style=flat-square&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
-[![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
+[![Formik](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=formik&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
+[![Svelte](https://img.shields.io/badge/-Svelte-%23E44D27?style=flat-square&logo=svelte&Color=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
 [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&link=https://github.com/Silbordon/)](https://github.com/Silbordon/)
